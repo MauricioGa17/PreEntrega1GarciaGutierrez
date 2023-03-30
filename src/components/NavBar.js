@@ -24,7 +24,7 @@ const NavBar = () => {
             </div>
             
         
-            <Navbar bg="light" className='shadow' expand="lg">
+            <Navbar bg="light" className='shadow mb-3' expand="lg">
                 <Container fluid>
                     <Navbar.Toggle aria-controls="navbarScroll" className='mb-3'/>
                     <Navbar.Collapse id="navbarScroll">
